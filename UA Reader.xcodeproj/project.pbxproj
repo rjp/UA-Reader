@@ -208,6 +208,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = rjp;
 				TargetAttributes = {
+					0C19D059183C9B0400A58021 = {
+						DevelopmentTeam = PV3L84UXAU;
+					};
 					0C19D080183C9B0400A58021 = {
 						TestTargetID = 0C19D059183C9B0400A58021;
 					};
@@ -399,6 +402,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UA Reader/UA Reader-Prefix.pch";
 				INFOPLIST_FILE = "UA Reader/UA Reader-Info.plist";
@@ -412,6 +416,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UA Reader/UA Reader-Prefix.pch";
 				INFOPLIST_FILE = "UA Reader/UA Reader-Info.plist";
